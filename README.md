@@ -2,6 +2,7 @@
 
 ## Project Overview
 - https://github.com/cu-ecen-aeld/final-project-shpr8875/wiki
+- https://github.com/cu-ecen-aeld/final-project-Induja21/wiki/Project-Overview
 
 ### Project Goals:
 - Efficiently monitor environmental conditions (temperature and humidity).
